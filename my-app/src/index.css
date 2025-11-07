@@ -1,0 +1,20 @@
+/* === Tailwind v4 Core === */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap');
+
+/* === Theme Configuration === */
+@theme {
+  /* 🌈 Brand Colors */
+  --color-primary: #0ea5e9; /* Sky Blue – trust, tech innovation */
+  --color-secondary: #1e293b; /* Slate – balance and stability */
+  --color-accent: #facc15; /* Yellow – energy and attention */
+  --color-neutral-dark: #0f172a; /* Deep text color */
+  --color-neutral-light: #f8fafc; /* Light background */
+
+  /* ✍️ Typography */
+  --font-sans: "Inter", "Poppins", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Poppins", "Inter", sans-serif;
+
+  /* 📏 Container + Spacing System */
+  --container-max-width: 1280px;
+}
