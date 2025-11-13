@@ -5,11 +5,6 @@ The goal of this project is to deliver a **clean, fast, and brand-consistent onl
 
 ---
 
-## Live Demo
-[🔗 
-
----
-
 ## 🎨 Brand Identity
 
 ### Color System
