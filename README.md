@@ -8,12 +8,11 @@ The goal of this project is to deliver a **clean, fast, and brand-consistent onl
 ## 🎨 Brand Identity
 
 ### Color System
-| Role | HEX | Usage Rationale |
-|------|-----|-----------------|
-| Primary | `#1E293B` | Deep navy blue to convey trust, reliability, and sophistication |
-| Secondary | `#FACC15` | Warm yellow to create a vibrant and energetic accent |
-| Background | `#F8FAFC` | Clean, neutral background for better product focus |
-| Accent | `#3B82F6` | Used for call-to-action buttons and hover effects |
+| Role |  Usage Rationale |
+|------|--------------|
+| Primary | Light blue to convey trust, reliability, and sophistication |
+| Background |  Clean, neutral background for better product focus |
+| Accent | Used for call-to-action buttons and hover effects |
 
 ### Typography
 - **Headings:** *Poppins* — chosen for its geometric style and clarity, ensuring hierarchy and brand modernity.  
